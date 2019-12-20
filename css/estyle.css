@@ -1,0 +1,33 @@
+
+header{
+    background-color: #42e6a4;
+    color: #000000;
+    padding: 5px;
+    text-align: center;
+}
+
+/*section padre*/
+.left-right{
+    display:flex;
+}
+
+/*para colocar las columnas una al lado de otra*/
+.izquierda-lorem{
+    background: #ff896b;
+    color: #000000;
+    padding: 20px;
+    width: 50%;
+    margin: 0px;
+    height: 1000px;
+
+
+}
+
+.derecha-lorem{
+    background: #02a8a8;
+    color: #000000;
+    padding: 20px;
+    width: 50%;
+    margin: 0px;
+    height: 1000px;
+}
