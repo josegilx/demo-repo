@@ -9,25 +9,45 @@ header{
 /*section padre*/
 .left-right{
     display:flex;
+    width: 100%;
 }
 
 /*para colocar las columnas una al lado de otra*/
-.izquierda-lorem{
+h2{
+    text-align: center;
+}
+.l1-lorem{
     background: #ff896b;
     color: #000000;
     padding: 20px;
     width: 50%;
     margin: 0px;
-    height: 1000px;
-
-
+    height: 200px;
 }
 
-.derecha-lorem{
+.l2-lorem{
     background: #02a8a8;
     color: #000000;
     padding: 20px;
     width: 50%;
     margin: 0px;
-    height: 1000px;
+    height: 200px;
+}
+
+.l3-lorem{
+    background: #ffe8d6;
+    color: #000000;
+    padding: 20px;
+    width: 50%;
+    margin: 0px;
+    height: 200px;
+}
+
+.l4-lorem{
+    background: #e9ea77;
+    color: #000000;
+    padding: 20px;
+    width: 50%;
+    margin: 0px;
+    height: 200px;
 }
