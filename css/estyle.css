@@ -19,27 +19,53 @@ h2{
 .l1-lorem{
     background: #ff896b;
     color: #000000;
-    padding: 20px;
-    width: 50%;
-    margin: 0px;
-    height: 200px;
+    padding: 10px;
+    /* width: 50; */
+    margin: 25px 50px 25px 25px;
+    height: 400px;
 }
 
-.l2-lorem{
+.l2a-lorem{
     background: #02a8a8;
     color: #000000;
-    padding: 20px;
-    width: 50%;
-    margin: 0px;
-    height: 200px;
+    padding: 50px;
+    /* width: 12.5%; */
+    margin: 25px 25px;
+    height: 100px;
 }
 
+.l2b-lorem{
+    background: #02a866;
+    color: #000000;
+    padding: 50px;
+    /* width: 12.5%; */
+    margin: 25px 25px;
+    height: 100px;
+}
+
+.l2c-lorem{
+    background: #6fc1a5;
+    color: #000000;
+    padding: 50px;
+    /* width: 12.5%; */
+    margin: 25px 25px;
+    height: 100px;
+}
+
+.l2d-lorem{
+    background: #dff6f0;
+    color: #000000;
+    padding: 50px;
+    /* width: 12.5%; */
+    margin: 25px 25px;
+    height: 100px;
+}
 .l3-lorem{
-    background: #ffe8d6;
+    background: #c2b0c9;
     color: #000000;
     padding: 20px;
     width: 50%;
-    margin: 0px;
+    margin: 25px;
     height: 200px;
 }
 
@@ -48,6 +74,15 @@ h2{
     color: #000000;
     padding: 20px;
     width: 50%;
-    margin: 0px;
+    margin: 25px;
+    height: 200px;
+}
+
+.l5-lorem{
+    background: #ff896b;
+    color: #000000;
+    padding: 20px;
+    width: 50%;
+    margin: 25px;
     height: 200px;
 }
